@@ -40,6 +40,11 @@ separates the persistence code from the domain model and places it in a new comp
 * lack of enforced discipline may lead to thinly disguised smart UI applications, with no real separation of concerns
 
 
+
+&nbsp;
+## [The MVC Pattern](The MVC Pattern.md)
+
+
 &nbsp;
 ## Variations on MVC
 

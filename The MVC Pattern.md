@@ -21,3 +21,7 @@ In ASP.NET Core MVC, controllers are C# classes, usually derived from the Micros
 ![](mvc.png?raw=true)
 
 * uses a view engine, known as Razor, which is the component responsible for processing a view in order to generate a response for the browser
+
+
+&nbsp;
+### [Software Architecture Patterns](Software Architecture Patterns.md)
